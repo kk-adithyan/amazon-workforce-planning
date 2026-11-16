@@ -1,0 +1,73 @@
+scenario,facility_id,city,country,occupation,current_workers,required_workers,expected_exits,scenario_gap
+Baseline,FC001,Dallas,USA,Stockers and order fillers,838,1301,85,548
+Baseline,FC001,Dallas,USA,Laborers and material movers,593,805,38,250
+Baseline,FC001,Dallas,USA,Industrial truck operators,170,116,13,-41
+Baseline,FC001,Dallas,USA,Packers and packagers,369,334,39,4
+Baseline,FC002,Birmingham,UK,Stockers and order fillers,751,1174,78,501
+Baseline,FC002,Birmingham,UK,Laborers and material movers,541,739,39,237
+Baseline,FC002,Birmingham,UK,Industrial truck operators,150,103,12,-35
+Baseline,FC002,Birmingham,UK,Packers and packagers,343,312,27,-4
+Baseline,FC003,Hyderabad,India,Stockers and order fillers,997,1553,112,668
+Baseline,FC003,Hyderabad,India,Laborers and material movers,700,954,58,312
+Baseline,FC003,Hyderabad,India,Industrial truck operators,205,140,13,-52
+Baseline,FC003,Hyderabad,India,Packers and packagers,438,398,33,-7
+Baseline,FC004,Tokyo,Japan,Stockers and order fillers,904,1358,91,545
+Baseline,FC004,Tokyo,Japan,Laborers and material movers,657,864,59,266
+Baseline,FC004,Tokyo,Japan,Industrial truck operators,188,124,7,-57
+Baseline,FC004,Tokyo,Japan,Packers and packagers,403,354,33,-16
+Baseline,FC005,Berlin,Germany,Stockers and order fillers,701,1083,78,460
+Baseline,FC005,Berlin,Germany,Laborers and material movers,510,690,46,226
+Baseline,FC005,Berlin,Germany,Industrial truck operators,146,99,6,-41
+Baseline,FC005,Berlin,Germany,Packers and packagers,309,278,32,1
+Baseline,FC006,Toronto,Canada,Stockers and order fillers,479,745,58,324
+Baseline,FC006,Toronto,Canada,Laborers and material movers,358,487,33,162
+Baseline,FC006,Toronto,Canada,Industrial truck operators,103,70,7,-26
+Baseline,FC006,Toronto,Canada,Packers and packagers,217,197,20,0
+Peak,FC001,Dallas,USA,Stockers and order fillers,838,1561,85,808
+Peak,FC001,Dallas,USA,Laborers and material movers,593,966,38,411
+Peak,FC001,Dallas,USA,Industrial truck operators,170,139,13,-18
+Peak,FC001,Dallas,USA,Packers and packagers,369,401,39,71
+Peak,FC002,Birmingham,UK,Stockers and order fillers,751,1408,78,735
+Peak,FC002,Birmingham,UK,Laborers and material movers,541,887,39,385
+Peak,FC002,Birmingham,UK,Industrial truck operators,150,123,12,-15
+Peak,FC002,Birmingham,UK,Packers and packagers,343,375,27,59
+Peak,FC003,Hyderabad,India,Stockers and order fillers,997,1863,112,978
+Peak,FC003,Hyderabad,India,Laborers and material movers,700,1144,58,502
+Peak,FC003,Hyderabad,India,Industrial truck operators,205,168,13,-24
+Peak,FC003,Hyderabad,India,Packers and packagers,438,477,33,72
+Peak,FC004,Tokyo,Japan,Stockers and order fillers,904,1630,91,817
+Peak,FC004,Tokyo,Japan,Laborers and material movers,657,1036,59,438
+Peak,FC004,Tokyo,Japan,Industrial truck operators,188,149,7,-32
+Peak,FC004,Tokyo,Japan,Packers and packagers,403,424,33,54
+Peak,FC005,Berlin,Germany,Stockers and order fillers,701,1300,78,677
+Peak,FC005,Berlin,Germany,Laborers and material movers,510,827,46,363
+Peak,FC005,Berlin,Germany,Industrial truck operators,146,119,6,-21
+Peak,FC005,Berlin,Germany,Packers and packagers,309,334,32,57
+Peak,FC006,Toronto,Canada,Stockers and order fillers,479,894,58,473
+Peak,FC006,Toronto,Canada,Laborers and material movers,358,584,33,259
+Peak,FC006,Toronto,Canada,Industrial truck operators,103,84,7,-12
+Peak,FC006,Toronto,Canada,Packers and packagers,217,236,20,39
+High Attrition,FC001,Dallas,USA,Stockers and order fillers,838,1301,89,552
+High Attrition,FC001,Dallas,USA,Laborers and material movers,593,805,40,252
+High Attrition,FC001,Dallas,USA,Industrial truck operators,170,116,13,-41
+High Attrition,FC001,Dallas,USA,Packers and packagers,369,334,41,6
+High Attrition,FC002,Birmingham,UK,Stockers and order fillers,751,1174,82,505
+High Attrition,FC002,Birmingham,UK,Laborers and material movers,541,739,41,239
+High Attrition,FC002,Birmingham,UK,Industrial truck operators,150,103,13,-34
+High Attrition,FC002,Birmingham,UK,Packers and packagers,343,312,28,-3
+High Attrition,FC003,Hyderabad,India,Stockers and order fillers,997,1553,118,674
+High Attrition,FC003,Hyderabad,India,Laborers and material movers,700,954,61,315
+High Attrition,FC003,Hyderabad,India,Industrial truck operators,205,140,14,-51
+High Attrition,FC003,Hyderabad,India,Packers and packagers,438,398,34,-6
+High Attrition,FC004,Tokyo,Japan,Stockers and order fillers,904,1358,96,550
+High Attrition,FC004,Tokyo,Japan,Laborers and material movers,657,864,62,269
+High Attrition,FC004,Tokyo,Japan,Industrial truck operators,188,124,7,-57
+High Attrition,FC004,Tokyo,Japan,Packers and packagers,403,354,34,-15
+High Attrition,FC005,Berlin,Germany,Stockers and order fillers,701,1083,82,464
+High Attrition,FC005,Berlin,Germany,Laborers and material movers,510,690,48,228
+High Attrition,FC005,Berlin,Germany,Industrial truck operators,146,99,7,-40
+High Attrition,FC005,Berlin,Germany,Packers and packagers,309,278,34,3
+High Attrition,FC006,Toronto,Canada,Stockers and order fillers,479,745,61,327
+High Attrition,FC006,Toronto,Canada,Laborers and material movers,358,487,35,164
+High Attrition,FC006,Toronto,Canada,Industrial truck operators,103,70,7,-26
+High Attrition,FC006,Toronto,Canada,Packers and packagers,217,197,21,1

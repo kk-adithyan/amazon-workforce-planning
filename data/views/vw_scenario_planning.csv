@@ -1,0 +1,7 @@
+country,city,facility_id,stocker_shortage,potential_surplus,optimistic_redeployment,optimistic_external_hiring,base_redeployment,base_external_hiring,conservative_redeployment,conservative_external_hiring
+Canada,Toronto,FC006,266,53,53,213,35.0,231.0,27.0,239.0
+Germany,Berlin,FC005,382,78,78,304,52.0,330.0,39.0,343.0
+India,Hyderabad,FC003,556,105,105,451,70.0,486.0,53.0,503.0
+Japan,Tokyo,FC004,454,113,113,341,75.0,379.0,57.0,397.0
+UK,Birmingham,FC002,423,78,78,345,52.0,371.0,39.0,384.0
+USA,Dallas,FC001,463,89,89,374,59.0,404.0,45.0,418.0

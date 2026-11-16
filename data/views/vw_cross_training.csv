@@ -1,0 +1,25 @@
+country,city,facility_id,source_occupation,target_occupation,surplus_workers,shortage_workers,matching_skills,skill_overlap_percentage,recommendation
+USA,Dallas,FC001,Industrial truck operators,Laborers and material movers,54,212,2,66.67,Potential Cross-Training
+USA,Dallas,FC001,Industrial truck operators,Stockers and order fillers,54,463,2,66.67,Potential Cross-Training
+USA,Dallas,FC001,Packers and packagers,Laborers and material movers,35,212,2,66.67,Potential Cross-Training
+USA,Dallas,FC001,Packers and packagers,Stockers and order fillers,35,463,2,66.67,Potential Cross-Training
+UK,Birmingham,FC002,Industrial truck operators,Laborers and material movers,47,198,2,66.67,Potential Cross-Training
+UK,Birmingham,FC002,Industrial truck operators,Stockers and order fillers,47,423,2,66.67,Potential Cross-Training
+UK,Birmingham,FC002,Packers and packagers,Laborers and material movers,31,198,2,66.67,Potential Cross-Training
+UK,Birmingham,FC002,Packers and packagers,Stockers and order fillers,31,423,2,66.67,Potential Cross-Training
+India,Hyderabad,FC003,Industrial truck operators,Laborers and material movers,65,254,2,66.67,Potential Cross-Training
+India,Hyderabad,FC003,Industrial truck operators,Stockers and order fillers,65,556,2,66.67,Potential Cross-Training
+India,Hyderabad,FC003,Packers and packagers,Laborers and material movers,40,254,2,66.67,Potential Cross-Training
+India,Hyderabad,FC003,Packers and packagers,Stockers and order fillers,40,556,2,66.67,Potential Cross-Training
+Japan,Tokyo,FC004,Industrial truck operators,Laborers and material movers,64,207,2,66.67,Potential Cross-Training
+Japan,Tokyo,FC004,Industrial truck operators,Stockers and order fillers,64,454,2,66.67,Potential Cross-Training
+Japan,Tokyo,FC004,Packers and packagers,Laborers and material movers,49,207,2,66.67,Potential Cross-Training
+Japan,Tokyo,FC004,Packers and packagers,Stockers and order fillers,49,454,2,66.67,Potential Cross-Training
+Germany,Berlin,FC005,Industrial truck operators,Laborers and material movers,47,180,2,66.67,Potential Cross-Training
+Germany,Berlin,FC005,Industrial truck operators,Stockers and order fillers,47,382,2,66.67,Potential Cross-Training
+Germany,Berlin,FC005,Packers and packagers,Laborers and material movers,31,180,2,66.67,Potential Cross-Training
+Germany,Berlin,FC005,Packers and packagers,Stockers and order fillers,31,382,2,66.67,Potential Cross-Training
+Canada,Toronto,FC006,Industrial truck operators,Laborers and material movers,33,129,2,66.67,Potential Cross-Training
+Canada,Toronto,FC006,Industrial truck operators,Stockers and order fillers,33,266,2,66.67,Potential Cross-Training
+Canada,Toronto,FC006,Packers and packagers,Laborers and material movers,20,129,2,66.67,Potential Cross-Training
+Canada,Toronto,FC006,Packers and packagers,Stockers and order fillers,20,266,2,66.67,Potential Cross-Training

@@ -1,0 +1,25 @@
+country,city,facility_id,occupation,current_workers,required_workers,workforce_gap,gap_percentage,workforce_status
+India,Hyderabad,FC003,Stockers and order fillers,997,1553,556,35.8,Workforce Shortage
+USA,Dallas,FC001,Stockers and order fillers,838,1301,463,35.59,Workforce Shortage
+Japan,Tokyo,FC004,Stockers and order fillers,904,1358,454,33.43,Workforce Shortage
+UK,Birmingham,FC002,Stockers and order fillers,751,1174,423,36.03,Workforce Shortage
+Germany,Berlin,FC005,Stockers and order fillers,701,1083,382,35.27,Workforce Shortage
+Canada,Toronto,FC006,Stockers and order fillers,479,745,266,35.7,Workforce Shortage
+India,Hyderabad,FC003,Laborers and material movers,700,954,254,26.62,Workforce Shortage
+USA,Dallas,FC001,Laborers and material movers,593,805,212,26.34,Workforce Shortage
+Japan,Tokyo,FC004,Laborers and material movers,657,864,207,23.96,Workforce Shortage
+UK,Birmingham,FC002,Laborers and material movers,541,739,198,26.79,Workforce Shortage
+Germany,Berlin,FC005,Laborers and material movers,510,690,180,26.09,Workforce Shortage
+Canada,Toronto,FC006,Laborers and material movers,358,487,129,26.49,Workforce Shortage
+Canada,Toronto,FC006,Packers and packagers,217,197,-20,-10.15,Potential Surplus
+UK,Birmingham,FC002,Packers and packagers,343,312,-31,-9.94,Potential Surplus
+Germany,Berlin,FC005,Packers and packagers,309,278,-31,-11.15,Potential Surplus
+Canada,Toronto,FC006,Industrial truck operators,103,70,-33,-47.14,Potential Surplus
+USA,Dallas,FC001,Packers and packagers,369,334,-35,-10.48,Potential Surplus
+India,Hyderabad,FC003,Packers and packagers,438,398,-40,-10.05,Potential Surplus
+UK,Birmingham,FC002,Industrial truck operators,150,103,-47,-45.63,Potential Surplus
+Germany,Berlin,FC005,Industrial truck operators,146,99,-47,-47.47,Potential Surplus
+Japan,Tokyo,FC004,Packers and packagers,403,354,-49,-13.84,Potential Surplus
+USA,Dallas,FC001,Industrial truck operators,170,116,-54,-46.55,Potential Surplus
+Japan,Tokyo,FC004,Industrial truck operators,188,124,-64,-51.61,Potential Surplus
+India,Hyderabad,FC003,Industrial truck operators,205,140,-65,-46.43,Potential Surplus

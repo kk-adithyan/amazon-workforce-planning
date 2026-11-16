@@ -1,0 +1,7 @@
+country,city,facility_id,current_workers,required_workers,workforce_gap,shortage_percentage,avg_daily_demand,workforce_risk_score,risk_level
+Canada,Toronto,FC006,1157,1499,342,22.82,86473.74,58.78,High
+Germany,Berlin,FC005,1666,2150,484,22.51,123798.23,62.39,High
+India,Hyderabad,FC003,2340,3045,705,23.15,175242.84,99.63,Critical
+Japan,Tokyo,FC004,2152,2700,548,20.3,160298.32,61.8,High
+UK,Birmingham,FC002,1785,2328,543,23.32,134108.06,65.31,High
+USA,Dallas,FC001,1970,2556,586,22.93,147083.06,65.93,High
